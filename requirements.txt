@@ -1,0 +1,7 @@
+keyboard
+pystray
+requests
+Pillow
+pyautogui
+pygame
+pywin32
